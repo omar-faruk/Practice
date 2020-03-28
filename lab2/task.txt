@@ -1,0 +1,7 @@
+1)implement of grep and ls with different flags
+
+2)IO operations (create open delete append)
+
+3)Process functions:
+	execv,fork,wait,exit
+	readdir,opendir
